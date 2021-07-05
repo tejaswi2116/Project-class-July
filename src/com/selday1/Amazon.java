@@ -54,6 +54,6 @@ public static void main(String[] args)  {
 			btnSign.click();
 			
 			
-			
+			driver.close();
 			
 }}
